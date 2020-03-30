@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThemeParkProject", "ThemeParkProject\ThemeParkProject.csproj", "{8CC66ACF-9E0A-4226-997C-02EEE6885C69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CC66ACF-9E0A-4226-997C-02EEE6885C69}.Debug|x86.ActiveCfg = Debug|x86
+		{8CC66ACF-9E0A-4226-997C-02EEE6885C69}.Debug|x86.Build.0 = Debug|x86
+		{8CC66ACF-9E0A-4226-997C-02EEE6885C69}.Release|x86.ActiveCfg = Release|x86
+		{8CC66ACF-9E0A-4226-997C-02EEE6885C69}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
